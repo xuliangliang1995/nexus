@@ -5,6 +5,7 @@
 * Linux 下载地址：https://nexus-bucket.oss-cn-beijing.aliyuncs.com/nexus-3.18.1-01-unix.tar.gz
 * Windwos 下载地址：https://nexus-bucket.oss-cn-beijing.aliyuncs.com/nexus-3.18.1-01-win64.zip
 
+## nexus maven 私服部署参考
 1. 安装 Nexus , 这里以 Centos 7 为例。
 
    国内下载 Nexus 非常慢，这里提供了自己的：[Nexus下载指引](https://github.com/xuliangliang1995/nexus)
