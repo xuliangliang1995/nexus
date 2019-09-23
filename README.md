@@ -18,7 +18,7 @@
    cd nexus-3.18.1-01/bin/
    
    # 注意有一个文件 nexus.vmoptions，里面信息如下，如果移动包路径注意修改这里面的配置
-   	-Xms2703m
+   	 -Xms2703m
        -Xmx2703m
        -XX:MaxDirectMemorySize=2703m
        -XX:+UnlockDiagnosticVMOptions
@@ -72,13 +72,13 @@
    	</server>
    	<server>
    		<id>releases</id>
-           <username>xuliangliang</username>
-           <password>xuliangliang0422</password>
+         <username>xuliangliang</username>
+         <password>xuliangliang0422</password>
    	</server>
    	<server>
    		<id>snapshots</id>
-           <username>xuliangliang</username>
-           <password>xuliangliang0422</password>
+         <username>xuliangliang</username>
+         <password>xuliangliang0422</password>
    	</server>
      </servers>
       
@@ -93,7 +93,7 @@
    
      <profiles>
    	<profile>
-   	    <id>jdk-1.8</id>
+   	   <id>jdk-1.8</id>
    		<activation>
    		   <activeByDefault>true</activeByDefault>
    		   <jdk>1.8</jdk>
