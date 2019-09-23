@@ -9,11 +9,8 @@
    | Default: ${user.home}/.m2/repository
   -->
 
-
   <pluginGroups></pluginGroups>
-
   <proxies></proxies>
-
 
   <servers>
     <server>
